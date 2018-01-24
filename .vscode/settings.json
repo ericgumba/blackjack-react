@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "javascript.format.enable": false,
+    "react.beautify.onSave": true,
+
+}
